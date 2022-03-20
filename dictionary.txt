@@ -1,24 +1,24 @@
-Raesfeld 
-Flughafen 
-Berlin 
-Bratwurst 
-Hauptstrasse 
-Brot 
-Klimaanlage 
-Rammstein 
-Porsche 
-BMW 
-Biergarten 
-Ratskeller 
-Dirndel 
-Lederhose 
-Schloss 
-Wettbewerbsfaehig 
-Mehlhase 
-Gebaeck 
-Baeckerei 
-Hund 
-Doener 
-Apfelkuchen 
-Schloss 
-Eltz
+Raesfeld = Raesfeld
+Flughafen = Airport
+Berlin = Berlin
+Bratwurst = Bratwurst
+Hauptstrasse = Main Road
+Brot = Bread
+Klimaanlage = Air Conditioning
+Rammstein = Raamstein
+Porsche = Porsche
+BMW = BMW
+Biergarten = Beer Garden
+Ratskeller = Council Room
+Dirndel = Dirndl
+Lederhose = Leather Pants
+Schloss = Lock
+Wettbewerbsfaehig = Competitive
+Mehlhase = Mehlhase
+Gebaeck = Pastries
+Baeckerei = Bakery
+Hund = Dog
+Doener = Doner
+Apfelkuchen = Apple Cake
+Schloss = Lock
+Eltz = Eltz
